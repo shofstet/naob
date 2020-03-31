@@ -1,12 +1,13 @@
 +++
 author = "Dominik Weingartner"
 date = 2020-03-05T22:45:00Z
-description = ""
+description = "Luzerner Zeitung ester Bericht"
 image = "/images/Bildschirmfoto 2020-03-31 um 20.41.41.png"
 title = "Luzerner Zeitung - Neuer Verein will Politik in Oberkirch aufmischen"
-
 +++
 # Neuer Verein will Politik in Oberkirch aufmischen
+
+Versuch
 
 Der neu gegründete Verein «Nachhaltiges Oberkirch» will sich für soziale und ökologische Themen in der Gemeinde stark machen
 
