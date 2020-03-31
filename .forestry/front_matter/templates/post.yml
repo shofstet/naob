@@ -14,3 +14,9 @@ fields:
 - type: text
   name: description
   label: description
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+  description: Autor des Artikels
