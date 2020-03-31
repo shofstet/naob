@@ -8,10 +8,6 @@ title = "Luzerner Zeitung - Neuer Verein will Politik in Oberkirch aufmischen"
 +++
 # Neuer Verein will Politik in Oberkirch aufmischen
 
-[Originalbericht](/images/LZ2-Neuer Verein will Politik in Oberkirch aufmischen | Luzerner Zeitung.pdf "Originalbericht")
-
-[LZ2-Neuer Verein will Politik in Oberkirch aufmischen | Luzerner Zeitung.pdf](/images/LZ2-Neuer Verein will Politik in Oberkirch aufmischen | Luzerner Zeitung.pdf "LZ2-Neuer Verein will Politik in Oberkirch aufmischen | Luzerner Zeitung.pdf")
-
 Der neu gegründete Verein «Nachhaltiges Oberkirch» will sich für soziale und ökologische Themen in der Gemeinde stark machen
 
 Die politische Landschaft in Oberkirch ist bürgerlich geprägt. Es existieren drei Ortsparteien: CVP, FDP und SVP. Auch den Gemeinderat teilen sich diese drei Parteien untereinander auf. Die CVP und die FDP haben je zwei Sitze, die SVP einen.
