@@ -22,7 +22,7 @@ sections:
   create: documents
   match: "*"
   templates:
-  - post
+  - medienberichte
 - type: directory
   path: content/contact
   label: Kontakt
