@@ -19,6 +19,9 @@ team:
   enable: true
   title: My Team
   team_member:
+  - title: Tom Giger
+    image: "/images/tom_giger.jgp"
+    designation: blubb
   - title: Jack Schenziwe
     image: images/team/member-1.png
     designation: Project Manager
