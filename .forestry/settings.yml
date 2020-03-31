@@ -29,7 +29,7 @@ sections:
   new_doc_ext: yml
 - type: directory
   path: content/contact
-  label: Contact
+  label: Kontakt
   create: none
   match: "*"
 - type: document
