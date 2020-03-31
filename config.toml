@@ -8,7 +8,7 @@ URL = "contact"
 name = "Kontakt"
 weight = 4
 [[menu.main]]
-URL = "portfolio"
+URL = "arbeitsgruppen"
 name = "Arbeitsgruppen"
 weight = 3
 [params]
