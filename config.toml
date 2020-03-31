@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "de-CH"
 summaryLength = "10"
 theme = "naob-hugo"
-title = "NaOb! - Nachhaltiges Oberkirch"
+title = "naob! - Nachhaltiges Oberkirch"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -30,7 +30,7 @@ home = "Home"
 logo = "images/logo.png"
 phone = ""
 social = []
-theme_color = "#14bf98"
+theme_color = "hsl(160, 80%, 40%)"
 [params.contact]
 enable = true
 form_action = "#"
