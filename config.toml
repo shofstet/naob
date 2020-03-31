@@ -11,14 +11,6 @@ weight = 4
 URL = "portfolio"
 name = "Arbeitsgruppen"
 weight = 3
-[[menu.main]]
-URL = "medienberichte"
-name = "Medienberichte"
-weight = 2
-[[menu.main]]
-URL = "ueber_uns"
-name = "Über uns"
-weight = 1
 [params]
 address = "Oberkirch"
 author = "Stefan Hofstetter, Anis Atrash, Tom Giger"
