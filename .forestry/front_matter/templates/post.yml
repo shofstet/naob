@@ -21,4 +21,5 @@ fields:
   label: author
   description: Autor des Artikels
 pages:
+- content/arbeitsgruppen/kommunikation.md
 - content/medienberichte/trichter.md
