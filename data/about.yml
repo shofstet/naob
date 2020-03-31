@@ -16,8 +16,8 @@ work_process:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
 team:
-  enable: false
-  title: My Team
+  enable: true
+  title: Personen dahinter
   team_member:
   - title: Tom Giger
     image: "/images/tom_giger.jgp"
