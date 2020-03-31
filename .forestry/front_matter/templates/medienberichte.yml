@@ -17,3 +17,5 @@ fields:
 - type: text
   name: title
   label: title
+pages:
+- content/medienberichte/luzerner-zeitung-neuer-verein-will-politik-in-oberkirch-aufmischen.md
