@@ -21,7 +21,7 @@ team:
   team_member:
   - title: Tom Giger
     image: "/images/tom_giger.jgp"
-    designation: blubb
+    designation: blubb ???
   - title: Julias Carlie
     image: images/team/member-2.png
     designation: Web Developer
