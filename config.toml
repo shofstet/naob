@@ -4,6 +4,10 @@ summaryLength = "10"
 theme = "naob-hugo"
 title = "naob! - Nachhaltiges Oberkirch"
 [[menu.main]]
+URL = "about"
+name = "Über uns"
+weight = "1"
+[[menu.main]]
 URL = "contact"
 name = "Kontakt"
 weight = 4
