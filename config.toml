@@ -13,7 +13,7 @@ name = "Kontakt"
 weight = 4
 [[menu.main]]
 URL = "arbeitsgruppen"
-name = "Arbeitsgruppen"
+name = "Themen"
 weight = 2
 [params]
 address = "Oberkirch"
