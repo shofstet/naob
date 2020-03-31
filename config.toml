@@ -21,21 +21,27 @@ name = "Contact"
 weight = 5
 [params]
 address = "Oberkirch"
-author = ""
-copyright = "Copyrighht &copy; 2020"
-description = ""
+author = "Stefan Hofstetter, Anis Atrash, Tom Giger"
+copyright = "Copyright &copy; 2020"
+description = "Nachhaltiges Oberkirch, ist eine politische Gruppierung, die aktiv am lokalen politischen Geschehen teilnimmt. Eine nachhaltige Entwicklung, welche ökologische, soziale und wirtschaftliche Themen berücksichtigt und die Lebensgrundlagen auch für spätere Generationen erhalten soll, dient uns als Leitlinie."
 email = "info[at]nachhaltiges-oberkirch.ch"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
 phone = ""
 social = []
-theme_color = "#41228e"
+theme_color = "#14bf98"
 [params.contact]
 enable = true
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/others/fontawesome-all.css"
+[[params.plugins.css]]
+URL = "plugins/others/magnific-popup.css"
+[[params.plugins.css]]
+URL = "plugins/others/swiper.css"
 [[params.plugins.css]]
 URL = "plugins/slick/slick.css"
 [[params.plugins.css]]
@@ -43,7 +49,21 @@ URL = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.js]]
 URL = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
+URL = "plugins/others/popper.min.js"
+[[params.plugins.js]]
 URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/others/jquery.easing.min.js"
+[[params.plugins.js]]
+URL = "plugins/others/swipper.min.js"
+[[params.plugins.js]]
+URL = "plugins/others/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+URL = "plugins/others/morphext.min.js"
+[[params.plugins.js]]
+URL = "plugins/others/isotope.pkgd.min.js"
+[[params.plugins.js]]
+URL = "plugins/others/validator.min.js"
 [[params.plugins.js]]
 URL = "plugins/slick/slick.min.js"
 [[params.plugins.js]]

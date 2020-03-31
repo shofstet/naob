@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     {{- partial "head.html" . -}}
-    <body>
+    <body data-spy="scroll" data-target=".fixed-top">
         {{- partial "preloader.html" . -}}
-        {{- partial "header.html" . -}}
+        {{- partial "nav.html" . -}}
+        {{- partial "page-title.html" . -}}
         {{- block "main" . }}{{- end }}
         {{- partial "footer.html" . -}}
     </body>
