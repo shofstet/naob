@@ -12,10 +12,6 @@ URL = "portfolio"
 name = "Arbeitsgruppen"
 weight = 3
 [[menu.main]]
-URL = "blog"
-name = "Medienberichte"
-weight = 2
-[[menu.main]]
 URL = "about"
 name = "Über uns"
 weight = 1
