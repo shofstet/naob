@@ -41,10 +41,6 @@ Colors:
 - Body text - gray #787976
 - Body text - light gray #dfe5ec
 ******************************************/
-:root {
-	--lighten-percentage: 20%;
-	--darken-precentage: 15%;
-}
 
 .bg-dark {
 	background-color: hsl(160, 80%, 20%) !important
@@ -55,7 +51,43 @@ Colors:
 	color: hsl(160, 80%, 20%) !important;
 	
   }
+  
+  .btn-primary {
+	background: hsl(160, 80%, 40%);
+	color: #fff;
+	border-color: hsl(160, 80%, 40%);
+  }
 
+
+  .btn-primary.active {
+	opacity: .8;
+  }
+  
+  .btn-primary:active {
+	background: hsl(160, 80%, 40%) !important
+  }
+  
+  .btn-primary:hover {
+	background: hsl(160, 80%, 40%)
+  }
+  
+  .btn-primary.focus,
+  .btn-primary.active {
+	background: hsl(160, 80%, 40%) !important;
+	box-shadow: none !important
+  }
+  
+  .btn-transparent {
+	background: transparent;
+	color: hsl(160, 80%, 40%);
+	font-weight: 700
+  }
+  
+  .btn-transparent:active,
+  .btn-transparent:hover {
+	color: hsl(160, 80%, 40%);
+  }
+  
   /******************************/
 /*     01. General Styles     */
 /******************************/

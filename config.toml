@@ -6,7 +6,7 @@ title = "naob! - Nachhaltiges Oberkirch"
 [[menu.main]]
 URL = "medienberichte"
 name = "Medienberichte"
-weight = "3"
+weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Kontakt"
@@ -14,7 +14,7 @@ weight = 4
 [[menu.main]]
 URL = "arbeitsgruppen"
 name = "Arbeitsgruppen"
-weight = 3
+weight = 2
 [params]
 address = "Oberkirch"
 author = "Stefan Hofstetter, Anis Atrash, Tom Giger"
@@ -26,7 +26,7 @@ home = "Home"
 logo = "images/logo.png"
 phone = ""
 social = []
-theme_color = "hsl(160, 80%, 40%)"
+theme_color = "​#14b881"
 [params.contact]
 enable = true
 form_action = "#"
