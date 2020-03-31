@@ -4,10 +4,6 @@ date = 2020-03-02T23:00:00Z
 description = "Verein «Nachhaltiges Oberkirch» gegründet"
 image = "/images/Bildschirmfoto 2020-03-31 um 16.27.29.png"
 title = "Trichter - Verein Nachhaltiges Oberkirch gegründet"
-[menu.main]
-URL = "medienberichte"
-name = "Medienberichte"
-weight = 2
 
 +++
 # Verein «Nachhaltiges Oberkirch» gegründet
