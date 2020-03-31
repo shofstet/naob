@@ -3,14 +3,12 @@ banner:
   title: Nachhaltiges Oberkrich
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: |-
+    ...ist eine politische Gruppierung, die aktiv am lokalen politischen Geschehen teilnimmt.
+    Eine nachhaltige Entwicklung, welche ökologische, soziale und wirtschaftliche Themen berücksichtigt und die Lebensgrundlagen auch für spätere Generationen erhalten soll, dient uns als Leitlinie.
   button:
     enable: true
-    label: know more
+    label: mehr
     URL: about
 skill:
   enable: false
