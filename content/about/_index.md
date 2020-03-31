@@ -1,9 +1,9 @@
 ---
-title: Über uns
+title: "Über uns"
 date: 2020-03-31T06:14:34.000+00:00
 description: This is meta description.
 author_image: "/images/Grundungsversammlung_Nachhaltiges_Oberkirch_2.jpg"
-author_signature: ''
+author_signature: ""
 menu:
   main:
     URL: about
