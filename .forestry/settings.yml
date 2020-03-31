@@ -5,17 +5,17 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
+  path: content/about
+  label: Über uns
+  create: none
+  match: "*"
+- type: directory
   path: content/arbeitsgruppen
-  label: Arbeitsgruppe
+  label: Arbeitsgruppen
   create: documents
   match: "*"
   templates:
   - post
-- type: directory
-  path: content/portfolio
-  label: Portfolio
-  create: none
-  match: "*"
 - type: directory
   path: content/medienberichte
   label: Medienberichte
@@ -24,8 +24,8 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/about
-  label: Über uns
+  path: content/contact
+  label: Kontakt
   create: none
   match: "*"
 - type: directory
@@ -35,8 +35,8 @@ sections:
   match: "*"
   new_doc_ext: yml
 - type: directory
-  path: content/contact
-  label: Kontakt
+  path: content/portfolio
+  label: Portfolio
   create: none
   match: "*"
 - type: document
