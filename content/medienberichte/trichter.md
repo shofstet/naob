@@ -1,6 +1,6 @@
 +++
 author = "trechter"
-date = ""
+date = 2020-03-02T23:00:00Z
 description = "Verein «Nachhaltiges Oberkirch» gegründet"
 image = ""
 title = "Trichter"
