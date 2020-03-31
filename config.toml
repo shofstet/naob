@@ -16,7 +16,7 @@ URL = "medienberichte"
 name = "Medienberichte"
 weight = 2
 [[menu.main]]
-URL = "about"
+URL = "ueber_uns"
 name = "Über uns"
 weight = 1
 [params]
