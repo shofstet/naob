@@ -6,7 +6,7 @@ image = "/images/Bildschirmfoto 2020-03-31 um 16.27.29.png"
 title = "Trichter - Verein Nachhaltiges Oberkirch gegründet"
 [menu.main]
 name = "Medienberichte"
-weight = 2
+weight = 3
 
 +++
 # Verein «Nachhaltiges Oberkirch» gegründet

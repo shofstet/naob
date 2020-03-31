@@ -4,17 +4,13 @@ summaryLength = "10"
 theme = "naob-hugo"
 title = "naob! - Nachhaltiges Oberkirch"
 [[menu.main]]
-URL = "/medienberichte"
-name = "Medienberichte"
-weight = "3"
-[[menu.main]]
 URL = "contact"
 name = "Kontakt"
 weight = 4
 [[menu.main]]
-URL = "arbeitsgruppen"
+URL = "portfolio"
 name = "Arbeitsgruppen"
-weight = 3
+weight = 2
 [params]
 address = "Oberkirch"
 author = "Stefan Hofstetter, Anis Atrash, Tom Giger"
