@@ -22,4 +22,5 @@ fields:
   description: Autor des Artikels
 pages:
 - content/arbeitsgruppen/kommunikation.md
+- content/arbeitsgruppen/rek-räumliches-entwicklungskonzept.md
 - content/medienberichte/trichter.md
