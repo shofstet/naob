@@ -3,6 +3,7 @@ title: Stefan
 date: 2019-05-12T06:14:34.000+00:00
 image: images/blog/post-3.jpg
 description: This is meta description.
+author: Stefan Hofstetter
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
